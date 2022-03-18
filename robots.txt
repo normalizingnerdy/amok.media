@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://normalizingnerdy.github.io/amok.media/sitemap.xml
